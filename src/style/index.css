@@ -1,0 +1,30 @@
+/*
+lg: 1200px
+md: 992px
+sm: 767px
+xs: 576px
+*/
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Proxima Nova", Georgia, sans-serif;
+  font-weight: bold;
+  line-height: 1;
+  font-size: 16px;
+}
+
+button,
+input {
+  font-size: 100%;
+  font-family: Lato;
+}
+
+.btn:focus {
+  outline: none;
+}
+/* body {
+  padding: 50px 70px 100px 50px;
+} */
